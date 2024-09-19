@@ -1,3 +1,5 @@
+// response API 
+
 let productBin = {
     "requestId": null,
     "data": [
